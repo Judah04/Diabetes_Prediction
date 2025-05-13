@@ -61,18 +61,3 @@ iface = gr.Interface(
 )
 
 iface.launch()
-# This code creates a Gradio app for diabetes prediction using a pre-trained model and scaler.
-# The app takes user inputs for various health parameters and outputs whether the person is diabetic or not.
-# The app is launched using the `iface.launch()` method.
-# The app is user-friendly and allows for easy interaction with the model.
-# The input fields are labeled for clarity, and the output is displayed as text.
-# The app can be run in a web browser, making it accessible to users without requiring any installation.
-# The Gradio library simplifies the process of creating web interfaces for machine learning models.
-# The app is a great example of how to deploy machine learning models using Gradio.
-# The app is a simple yet effective tool for diabetes prediction, making it accessible to users without technical expertise.
-# The app is designed to be run in a Gradio environment, providing a web-based interface for users.
-# The app is a great example of how to deploy machine learning models using Gradio.
-# The app is a simple yet effective tool for diabetes prediction, making it accessible to users without technical expertise.
-# The app is designed to be run in a Gradio environment, providing a web-based interface for users.
-# The app is a great example of how to deploy machine learning models using Gradio.
-# The app is a simple yet effective tool for diabetes prediction, making it accessible to users without technical expertise.
